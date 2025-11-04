@@ -1,0 +1,5 @@
+{
+  "name": "Smart File Organizer",
+  "description": "An intelligent file classifier that uses Gemini to automatically categorize your uploaded files. Upload files and watch as they are sorted into categories like Invoices, Images, Documents, and Code.",
+  "requestFramePermissions": []
+}
